@@ -4,13 +4,15 @@ import os
 from zipfile import ZipFile
 import shutil
 
+from download_content import curl_request
+
 def setup_folder():
     files = os.listdir("content")
 
     for f in files:
         path = f"content/{f}"
 
-        if f == 'index.md':
+        if f == 'index.md' or f == 'data.zip':
             continue
 
         if (os.path.isdir(path)):
@@ -33,7 +35,7 @@ def unzip():
         zObject.extractall("content")
 
 def move_files():
-    source = "content/ProjektOmvagen-Public"
+    source = "content/ProjektOmvagen-0.1.0-alpha"
     destination = "content"
 
     allFiles = os.listdir(source)
@@ -42,13 +44,13 @@ def move_files():
         dst_path = os.path.join(destination, f)
         shutil.move(src_path, dst_path)
 def cleanup():
-    shutil.rmtree("content/ProjektOmvagen-Public")
+    shutil.rmtree("content/ProjektOmvagen-0.1.0-alpha")
     os.remove("content/data.zip")
 
 def main():
     setup_folder()
-    data = download_data()
-    save_data(data)
+    #data = download_data() -> Currently not working with
+    #save_data(data)
     unzip()
     move_files()
     cleanup()
