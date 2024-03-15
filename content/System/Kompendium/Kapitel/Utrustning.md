@@ -2,6 +2,31 @@
 tags:
   - Kapitel
 ---
+## Vapen
+Det finns tre typer av vapen, enhandade vapen, tvåhandade vapen och projektilvapen. 
 
+Exempel på enhandsvapen är:  Kniv, Kortsvärd, Handyxa och Stav (ca 1T6)
+Exempel på tvåhandsvapen är: Stridsyxa, Långsvärd, Hillebard och Slägga (ca 1T10)
+Exempel på projektilvapen är: Slangbella, Kortbåge, Långbåge (ca 1T8)
+*Senare speltest kommer att behandla vapen i mer detalj, i nuläget ges förfogande till spelledaren att bestämma över vilken kategori olika vapen hamnar i, och därmed hur mycket skada de gör. Det är även viktigt att definiera vapnets räckvidd.*
+
+När du ska använda enhandsvapen kan du välja om du vill använda Smidighet eller Styrka, detta refereras med samlingsnamnet Fysisk förmåga (FYS). Detta innebär att du lägger till din FYS både till när du ska försöka träffa något och till skadan som vapnet gör.
+
+När du ska använda tvåhandsvapen används styrka. Detta innebär att du lägger till STY både till när du ska försöka träffa något och till skadan som vapnet gör.
+
+När du ska använda projektilvapen används smidighet.Detta innebär att du lägger till SMI både till när du ska försöka träffa något och till skadan som vapnet gör. 
+
+## Skydd
+För att skydda sig från skada finns skydd, alltså sköldar och rustningar. Dessa finns i tre varianter; Lätt, Medeltung och Tung.
+
+**Lätta sköldar** ger en karaktär +1 i bepansringsnivå.
+**Medeltunga sköldar** ger en karaktär +2 i bepansringsnivå. Kräver minst 2 i STY.
+**Tunga sköldar** ger en karaktär +3 i bepansringsnivå. Kräver minst 3 i STY.
+
+**Lätt rustning** ger en karaktär +2 i bepansringsnivå.
+**Medeltung rustning** ger en karaktär +4 i bepansringsnivå, men de kan högst lägga till 2 poäng från sin smidighet. Kräver minst 2 i STY.
+**Tung rustning** ger en karaktär +6 i bepansringsnivå, men de får inte lägga till några poänga från sin smidighet. Kräver minst 3 i STY.
+## Övrigt
+I detta speltest är inte utrustning i fokus, övrig utrustning kan försummas och det kan antas att rollfigurerna har vad som krävs för att göra grundläggande saker, som att slå läger, laga mat och liknande. Ifall rollfigurerna vill göra något “utöver det vanliga” ges spelledaren (som vanligt) makt att improvisera.
 
 

@@ -35,7 +35,7 @@ def unzip():
         zObject.extractall("content")
 
 def move_files():
-    source = "content/ProjektOmvagen-0.1.0-alpha"
+    source = "content/ProjektOmvagen-main"
     destination = "content"
 
     allFiles = os.listdir(source)
@@ -44,7 +44,7 @@ def move_files():
         dst_path = os.path.join(destination, f)
         shutil.move(src_path, dst_path)
 def cleanup():
-    shutil.rmtree("content/ProjektOmvagen-0.1.0-alpha")
+    shutil.rmtree("content/ProjektOmvagen-main")
     os.remove("content/data.zip")
 
 def main():
