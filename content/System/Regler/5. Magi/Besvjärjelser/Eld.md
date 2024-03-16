@@ -11,7 +11,9 @@ Magiskola:
 *Arcanum,Sanctum*
 
 **Uppladdningstid:** 1 huvudhandling
+
 **Räckvidd:** 10 FE(15m)
+
 **Varaktighet**: Omedelbar
 
 ###### Första graden
