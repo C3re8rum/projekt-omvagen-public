@@ -7,7 +7,7 @@ Magiskola:
   - Sanctum
 ---
 ### Förbanna
-*Sanctum*
+*Arcanum*
 
 **Uppladdningstid:** 1 huvudhandling
 
