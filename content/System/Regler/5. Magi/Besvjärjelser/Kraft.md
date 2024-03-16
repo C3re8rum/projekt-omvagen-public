@@ -7,7 +7,7 @@ Magiskola:
   - Sanctum
 ---
 ### Kraft
-*Sanctum*
+*Sanctum
 
 **Uppladdningstid:** 1 huvudhandling
 
