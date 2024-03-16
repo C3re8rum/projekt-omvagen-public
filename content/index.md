@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Projekt Omvägen
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Detta projekt är ett speltestsystem vars mål är att vara lätt för både nya spelare och spelledare att använda för framförallt kortare äventyr men bör även kunna användas för längre kampanjer i framtiden. 
