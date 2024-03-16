@@ -11,7 +11,7 @@ När du vill använda magi beskriver du:
 - Om du vill spendera mana på magin
 - Mot vem eller var du kastar besvärjelsen
 
-Efter att du har gjort det och fått godkännande från SL kan du slå för magi. Ett magislag är ett stanardslag där du lägger till din INT+2*nivå. Vilken SG du behöver uppnpå framgår av tabellen nedan. Om du spenderar 1 mana på magin lägger till 3 till magislaget du gör. En karaktär kan maximalt spendera 2*Nivå mana per besvärjelse.
+Efter att du har gjort det och fått godkännande från SL kan du slå för magi. Ett magislag är ett stanardslag där du lägger till din INT+2\*nivå. Vilken SG du behöver uppnpå framgår av tabellen nedan. Om du spenderar 1 mana på magin lägger till 3 till magislaget du gör. En karaktär kan maximalt spendera 2\*Nivå mana per besvärjelse.
 
 | Besvärjelsegrad (BG) | SG  |
 | -------------------- | --- |

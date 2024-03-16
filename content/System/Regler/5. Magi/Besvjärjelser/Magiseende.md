@@ -8,8 +8,11 @@ Magiskola:
 ---
 ### Magiseende
 *Arcanum*
+
 **Uppladdningstid:** 1 tur
+
 **Räckvidd:** 10 FE
+
 **Varaktighet**: 1 minut
 
 ###### Första graden
