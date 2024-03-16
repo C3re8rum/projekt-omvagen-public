@@ -8,7 +8,7 @@ Magiskola:
   - Sanctum
 ---
 ### Eld
-*Arcanum,Sanctum*
+*Arcanum, Sanctum*
 
 **Uppladdningstid:** 1 huvudhandling
 

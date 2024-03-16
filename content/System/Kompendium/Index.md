@@ -14,4 +14,5 @@ longform:
   sceneTemplate: zz_Mallar/System/Mall - Kapitel.md
   ignoredFiles:
     - Untitled
+share: "False"
 ---

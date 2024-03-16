@@ -20,7 +20,7 @@
 
 # Besvärjelsesamling
 ### Eld
-**
+*Arcanum, Sanctum*
 
 **Uppladdningstid:** 1 huvudhandling
 
@@ -33,8 +33,8 @@ Du kallar fram ett eldklot som du slungar mot en varelse. Om den träffar tar va
 
 ###### Andra graden
 Du fokuserar ytterligare och lyckas koncentrera in energin som en magisk bomb. Välj istället en punkt inom räckvidden. Alla varelser inom 1 FE måste slå SMI mot din MMSG eller ta skadan och fatta eld som beskrivs ovan.
-### Frost
-**
+### [no-title nlk](./Frost.md) 
+*Arcanum*
 
 **Uppladdningstid:** 1 huvudhandling
 
@@ -48,7 +48,7 @@ Du kallar samman ett en froststråle mot ditt mål. Målet tar 1T6 frostskada oc
 ####  Andra graden
 Styrkan i din froststråle ökar och målet måste slå STY för att inte bli fastfrusen till slutet av din nästa tur. En fastfrusen varelse kan inte ta några handlingar och attacker mot varelsen får en bonus på 1T6.
 ### Förbanna
-**
+*Arcanum*
 
 **Uppladdningstid:** 1 huvudhandling
 
@@ -62,7 +62,7 @@ Du lägger en förbannelse över en varelse du kan se inom räckvidden. Denna va
 #### Andra graden
 Du märker varelsen med din gudomliga energi vilket försvagar varelsens försvar. Om varelsen misslyckas med slaget oven får den -2 till deras BN.
 ### Kraft
-**
+*Sanctum
 
 **Uppladdningstid:** 1 huvudhandling
 
@@ -79,7 +79,7 @@ Under en minuts tid sammankallar du helig kraft från väven som du slutligen de
 Detta innebär att deras maximala KP ökar under varaktigheten. 
 
 ### Ljus
-**
+*Sanctum*
 
 **Uppladdningstid:** 1 huvudhandling
 
@@ -93,7 +93,7 @@ Du vidrör vid ett föremål som börjar lysa starkt. Föremål lyser upp som en
 #### Andra graden
 Ljuset blir nästan lika starkt som solen själv. Istället för att beröra ett objekt väljer du en punkt inom 10FE (15m). Den punkten lyser så starkt att allt inom 1 FE blir bländade om de misslyckas med ett CHA-slag mot din MMSG.  
 ### Läka
-**
+*Sanctum*
 
 **Uppladdningstid:** 1 huvudhandling
 
@@ -110,7 +110,7 @@ Ljuset blir nästan lika starkt som solen själv. Istället för att beröra ett
 Din syn vidgas och du har möjlighet att läka flera varelser samtidigt. Välj 3 varelser inom din syn som du helar 1T10+INT. 
 
 ### Magiseende
-**
+*Arcanum*
 
 **Uppladdningstid:** 1 tur
 
@@ -124,7 +124,7 @@ Du gräver djupt inombords tills du ser in i självaste väven. Under besvärjel
 ###### Andra graden
 Istället för att se om föremål är magiska runt omkring dig fokuserar du istället på ett föremål som du kan se inom räckvidden. Du får reda på om föremålet är magiskt, vilken typ av magi som påverkar det och vad magin gör. Vissa föremål är immuna mot denna besvärjelse. Om du misslyckas med att identifiera ett föremål med denna magi ökar SG med 2 för att identifiera föremålet igen.
 ### Sköld
-**
+*Arcanum*
 
 **Uppladdningstid:** 1 reaktion
 
@@ -138,7 +138,8 @@ En osynlig och transparent barriär skyddar dig. Till början av din nästa tur 
 #### Andra graden
 Istället för att endast skydda dig ökar skölden till att ge allt inom 1FE en +3 till BN och slag för att motstå projektiler och effekter som påverkar ytan.
 ### Vind
-**
+*Arcanum*
+
 **Uppladdningstid:** 1 huvudhandling
 **Räckvidd:** 10 FE (15m)
 **Varaktighet**: Omedelbar
