@@ -6,7 +6,7 @@ tags:
 Magiskola:
   - Arcanum
 ---
-### Frost
+### [Frost](Frost.md) 
 *Arcanum*
 
 **Uppladdningstid:** 1 huvudhandling
