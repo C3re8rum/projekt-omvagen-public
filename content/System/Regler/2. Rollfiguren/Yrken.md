@@ -9,6 +9,7 @@ Ett yrke är en rollfigurs sysselsättning, vilket definierar dess förmågor oc
 
 ### Krigare
 **KP-Bas: 18**
+
 **Färdigheter:** Athleticism, Välj två av följande: Spaning, Smygande, Kommunikation, Överlevnad
 
 En krigare är tränad att använda alla typer av sköldar och vapen. 
@@ -24,7 +25,8 @@ Dina år på slagfältet har lett till att du förstår att när kroppen utsätt
 Efter att du fått din adrenalinkick kan du inte använda den tills du vilat i minst 1 timme.
 
 ### Spejare
-**KP-Bas: 14**
+**KP-Bas**: 14
+
 **Färdigheter**: Smygande, Välj två av följande: Atletism, Spaning, Kunskap, Överlevnad
 
 En spejare är tränad att använda enhandsvapen och avståndsvapen.
@@ -37,6 +39,7 @@ Vildmarken är en farlig plats som kräver rätt beslut på ett ögonblick, åtm
 
 ### Magiker
 **KP-Bas**: 10
+
 **Färdigheter**: Kunskap, Välj två av följande: Spaning, Smygande, Kommunikation, Överlevnad
 
 Det enda vapnet magiker är tränade i att använda är trästaven. 
