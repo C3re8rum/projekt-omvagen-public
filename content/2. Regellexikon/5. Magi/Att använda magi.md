@@ -2,8 +2,9 @@
 tags:
   - Regel
   - Magi
+share: true
 ---
-## Att använda magi
+# Att använda magi
 
 När du vill använda magi beskriver du:
 - Vilken besvärjelsedomän du vill försöka kasta
