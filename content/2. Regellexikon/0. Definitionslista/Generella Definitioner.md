@@ -1,6 +1,7 @@
 ---
 tags:
   - Regel
+share: true
 ---
 ## Generella Definitioner
 I detta kapitel finns en lista med begrepp som är till för att förenkla förståelsen av resten av dokumentet.
