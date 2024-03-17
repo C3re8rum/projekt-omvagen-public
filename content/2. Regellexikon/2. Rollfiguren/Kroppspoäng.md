@@ -4,6 +4,7 @@ tags:
   - Rollfiguren
 aliases:
   - KP
+share: true
 ---
 ## Kroppspoäng 
 Hur stryktålig en rollfigur är bestäms av dess kroppspoäng (KP). Hur många kroppspoäng en karaktär beror på flera faktorer men består av tre komponenter: yrke & nivå och styrka. 
