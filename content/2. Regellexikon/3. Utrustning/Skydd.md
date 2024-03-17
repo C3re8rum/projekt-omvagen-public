@@ -2,6 +2,7 @@
 tags:
   - Regel
   - Utrustning
+share: true
 ---
 ## Skydd
 För att skydda sig från skada finns skydd, alltså sköldar och rustningar. Dessa finns i tre varianter; Lätt, Medeltung och Tung.
