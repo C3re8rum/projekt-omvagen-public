@@ -1,6 +1,7 @@
 ---
 tags:
   - Regel
+share: true
 ---
 ## Död och att bli nedgjord
 När en karaktär når 0 KP blir den antingen nedjord eller dör. 

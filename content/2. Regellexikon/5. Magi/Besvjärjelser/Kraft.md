@@ -5,9 +5,10 @@ tags:
   - Magi
 Magiskola:
   - Sanctum
+share: true
 ---
 ### Kraft
-*Sanctum
+*Sanctum*
 
 **Uppladdningstid:** 1 huvudhandling
 

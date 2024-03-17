@@ -2,6 +2,7 @@
 tags:
   - Regel
   - Rollfiguren
+share: true
 ---
 ## Yrken  
 

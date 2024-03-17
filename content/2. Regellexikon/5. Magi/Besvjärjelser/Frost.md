@@ -5,8 +5,9 @@ tags:
   - Magi
 Magiskola:
   - Arcanum
+share: true
 ---
-### [[2. Regellexikon/5. Magi/Besvjärjelser/Frost|2. Regellexikon/5. Magi/Besvjärjelser/Frost]] 
+### Frost 
 *Arcanum*
 
 **Uppladdningstid:** 1 huvudhandling

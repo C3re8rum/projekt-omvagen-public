@@ -2,6 +2,7 @@
 tags:
   - Regel
   - Strid
+share: true
 ---
 ## Förflyttning
 

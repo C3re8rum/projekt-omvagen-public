@@ -2,6 +2,7 @@
 tags:
   - Regel
   - Varelser
+share: true
 ---
 ## Grundegenskaper
 Det finns fyra grundegenskaper som alla karaktärer har: Styrka, Smidighet, Intellekt och Karisma.

@@ -2,6 +2,7 @@
 tags:
   - Regel
   - Strid
+share: true
 ---
 ## Definitionslista
 **Rundan** motsvarar att alla karaktärer som deltar i striden har fått sin tur. En runda motsvarar ungefär 6 sekunder. 

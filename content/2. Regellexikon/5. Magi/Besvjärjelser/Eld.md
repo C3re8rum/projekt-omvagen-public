@@ -6,6 +6,7 @@ tags:
 Magiskola:
   - Arcanum
   - Sanctum
+share: true
 ---
 ### Eld
 *Arcanum, Sanctum*

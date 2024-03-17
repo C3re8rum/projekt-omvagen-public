@@ -2,6 +2,7 @@
 tags:
   - Regel
   - Utrustning
+share: true
 ---
 ## Vapen
 Det finns tre typer av vapen, enhandade vapen, tvåhandade vapen och projektilvapen. 
