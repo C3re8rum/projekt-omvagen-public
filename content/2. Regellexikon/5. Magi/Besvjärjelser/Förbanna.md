@@ -5,6 +5,7 @@ tags:
   - Magi
 Magiskola:
   - Sanctum
+share: true
 ---
 ### Förbanna
 *Arcanum*
