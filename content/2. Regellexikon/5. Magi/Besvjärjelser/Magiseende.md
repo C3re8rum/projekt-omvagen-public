@@ -5,6 +5,7 @@ tags:
   - Magi
 Magiskola:
   - Arcanum
+share: true
 ---
 ### Magiseende
 *Arcanum*
