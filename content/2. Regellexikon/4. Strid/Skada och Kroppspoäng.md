@@ -2,6 +2,7 @@
 tags:
   - Regel
   - Strid
+share: true
 ---
 ## Skada och Kroppspoäng 
 En karaktärs kroppspoäng motsvarar en kombination av fysisk och mental uthållighet, levnadsvilja och tur. Karaktärer med fler kroppspoäng är svårare att döda och de med färre är mer fragila. 
