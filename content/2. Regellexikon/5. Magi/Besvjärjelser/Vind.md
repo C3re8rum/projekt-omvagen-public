@@ -10,8 +10,10 @@ share: true
 ### Vind
 *Arcanum*
 
-**Uppladdningstid:** 1 huvudhandling
+**Uppladdningstid:** 2 handlingar
+
 **Räckvidd:** 10 FE (15m)
+
 **Varaktighet**: Omedelbar
 
 #### Första graden
