@@ -10,7 +10,7 @@ share: true
 ### Sköld
 *Arcanum*
 
-**Uppladdningstid:** 1 reaktion
+**Uppladdningstid:** 1 handling, Reaktion
 
 **Räckvidd:** Personlig
 

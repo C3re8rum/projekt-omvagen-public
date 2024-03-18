@@ -10,7 +10,7 @@ share: true
 ### Förbanna
 *Arcanum*
 
-**Uppladdningstid:** 1 huvudhandling
+**Uppladdningstid:** 2 handlingar
 
 **Räckvidd:** 2 FE (3m)
 

@@ -4,7 +4,7 @@ tags:
   - Utrustning
 share: true
 ---
-## Vapen
+ ## Vapen
 Det finns tre typer av vapen, enhandade vapen, tvåhandade vapen och projektilvapen. 
 
 Exempel på enhandsvapen är:  Kniv, Kortsvärd, Handyxa och Stav (ca 1T6)

@@ -10,7 +10,7 @@ share: true
 ### Magiseende
 *Arcanum*
 
-**Uppladdningstid:** 1 tur
+**Uppladdningstid:** 4 handlingar
 
 **Räckvidd:** 10 FE
 

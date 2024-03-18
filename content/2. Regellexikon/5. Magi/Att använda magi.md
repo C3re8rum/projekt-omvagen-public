@@ -20,6 +20,19 @@ Efter att du har gjort det och fått godkännande från SL kan du slå för magi
 | 2                    | 18  |
 En karaktär har en mängd mana som är lika med 1+Nivå\*INT
 
-Arcanum: Eld, Frost, Magiseende, Vind, Sköld
+### Översikt
+**Arcanum**
+- [[2. Regellexikon/5. Magi/Besvjärjelser/Eld.md|Eld]]
+- [[2. Regellexikon/5. Magi/Besvjärjelser/Frost.md|Frost]]
+- [[2. Regellexikon/5. Magi/Besvjärjelser/Magiseende.md|Magiseende]]
+- [[2. Regellexikon/5. Magi/Besvjärjelser/Sköld.md|Sköld]]
+- [[2. Regellexikon/5. Magi/Besvjärjelser/Vind.md|Vind]]
 
-Sanctum: Eld, Förbanna, Kraft, Läka, Ljus
+
+**Sanctum**
+- [[2. Regellexikon/5. Magi/Besvjärjelser/Eld.md|Eld]]
+- [[2. Regellexikon/5. Magi/Besvjärjelser/Förbanna.md|Förbanna]]
+- [[2. Regellexikon/5. Magi/Besvjärjelser/Kraft.md|Kraft]]
+- [[2. Regellexikon/5. Magi/Besvjärjelser/Ljus.md|Ljus]]
+- [[2. Regellexikon/5. Magi/Besvjärjelser/Läka.md|Läka]]
+
