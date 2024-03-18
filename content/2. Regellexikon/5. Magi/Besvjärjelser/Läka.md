@@ -10,7 +10,7 @@ share: true
 ### Läka
 *Sanctum*
 
-**Uppladdningstid:** 1 huvudhandling
+**Uppladdningstid:** 2 handlingar
 
 **Räckvidd:** Beröring
 
