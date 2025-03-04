@@ -34,8 +34,8 @@ En gång per runda, när du [[2. Regellexikon/3. Strid/Generella Handlingar/Atta
 
 | Effekter                            | Extraskada |
 | ----------------------------------- | ---------- |
-| Gömd                                | 1T12       |
-| Förvirrad, Exponerad, Trög, Bedövad | 2T12       |
-| Medvetslös, Paralyserad             | 3T12       |
+| Gömd                                | 1T6        |
+| Förvirrad, Exponerad, Trög, Bedövad | 2T6        |
+| Medvetslös, Paralyserad             | 3T6        |
 
 Om en karaktär på annat sätt är förhindrad, kan den också ta mer skada från dina attacker. Om en effekt inte finns i tabellen men påverkar karaktären, fråga din spelledare om det skulle göra mer skada. 
