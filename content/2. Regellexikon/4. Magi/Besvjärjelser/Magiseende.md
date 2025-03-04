@@ -1,0 +1,26 @@
+---
+tags:
+  - Regel
+  - Besvärjelse
+  - Magi
+Magiskola:
+  - Arcanum
+share: true
+---
+### Magiseende
+*Arcanum*
+
+**Uppladdningstid:** 4 handlingar
+
+**Räckvidd:** 10 FE
+
+**Varaktighet**: 1 minut
+
+###### Första graden
+Du gräver djupt inombords tills du ser in i självaste väven. Under besvärjelsens varaktighet kan du inom räckvidden se magiska föremål, upptäcka om en besvärjelse används fastän du inte kan se den samt upptäcka om någon är påverkad av magi. 
+
+###### Andra graden
+Istället för att se om föremål är magiska runt omkring dig fokuserar du istället på ett föremål som du kan se inom räckvidden. Du får reda på om föremålet är magiskt, vilken typ av magi som påverkar det och vad magin gör. Vissa föremål är immuna mot denna besvärjelse eller kan gömma viss information. Om du misslyckas med att identifiera ett föremål med denna magi ökar SG med 2 för att identifiera föremålet igen.
+
+###### När besvärjelsen slår fel
+Att se in i självaste väven är farligt och lätt bländande. Du blir under besvärjelsens varaktighet blind. 
