@@ -8,7 +8,7 @@ Magiskola:
 share: true
 ---
 ### Förbanna
-*Arcanum*
+*Sanctum*
 
 **Uppladdningstid:** 2 handlingar
 
