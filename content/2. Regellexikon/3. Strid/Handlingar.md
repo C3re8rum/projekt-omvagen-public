@@ -6,7 +6,7 @@ share: true
 ---
 ## Handlingar 
 
-Vid strid begränsas det en karaktär kan göra på en begränsad tid. Under en runda kan en karaktär göra maximalt 3 handlingar (vissa SLP kan ha fler, men 3 är standard), där de flesta vanligtvis sker under karaktärens tur. Efter att karaktären har avslutat sin tur får den tillbaka alla sina handlingar.
+Vid strid begränsas det en karaktär kan göra på en begränsad tid. Under en runda kan en karaktär göra maximalt 3 handlingar (vissa SLP kan ha fler, men 3 är standard), där de flesta vanligtvis sker under karaktärens tur. Karaktären börjar alltid sin tur med 3 handlingar men återfår inte dem för eventuella reaktioner förrän början av dess nästa tur (om en reaktion ska användas måste alltså handlingpoäng från själva rundan sparas). 
 
 Det finns två typer av handlingar:
 - **Grundläggande handlingar** kan alla göra
@@ -28,7 +28,7 @@ Du använder ett vapen du har till ditt förfogande, eller med dina knytnävar f
 
 **Lyckat slag**: Du gör skada i enlighet med vad som beskrivs av vapnet, inklusive tillägg, bortdrag etc. 
 
-**Vid upprepning**: Dra bort 3 från attackslaget för varje gång du attackerat.
+**Vid upprepning**: Dra bort 3 från attackslaget för varje gång du träffat med en attack.
 
 
 
@@ -52,14 +52,6 @@ När du har en karaktär fasthållen har du mer kontroll och kan exempelvis för
 
 #### Kraftfull Attack (1)
 När du [[2. Regellexikon/3. Strid/Generella Handlingar/Attackera (1)|attackerar]] kan du välja att göra det till en kraftfull attack, lägg i så fall till STY/SMI till skadan beroende på om du använder STY/SMI för att träffa. 
-
-
-
-
-
-
-#### Reträtt (1)
-Rulla 1FE bakåt utan att provocera reaktioner. 
 
 
 
@@ -90,7 +82,7 @@ Du försöker använda en besvärjelse du har tillgång till. Mängden handlinga
 
 **Utlöses av**: En karaktär slår mot dig eller någon inom din räckvidd.
 
-Ditt eller den andra karaktärens försvar ökar med 1T4+TG mot attacken som utlöste reaktionen.
+Ditt eller den andra karaktärens försvar ökar med 1T6 mot attacken som utlöste reaktionen.
 
 
 
@@ -102,13 +94,9 @@ Ditt eller den andra karaktärens försvar ökar med 1T4+TG mot attacken som utl
 
 
 #### Res sköld (1)
-*Reaktion*
-
 **Förutsättning**: Tränad att använda sköld
 
-**Utlöses**: Du är målet av en attack eller i träffzonen för en förmåga som träffar en area
-
-Du kan resa din sköld och omedelbart öka ditt försvar med 1T4 + TG tills början av din nästa tur. Är du i träfffzonen för en areaförmåga kan du istället lägga till resultatet av slaget till det du slår för att motstå förmågan.
+Du kan resa din sköld och omedelbart öka ditt försvar med 1T4 + din sköldbonus tills början av din nästa tur. Är du i träfffzonen för en areaförmåga kan du istället lägga till resultatet av slaget till det du slår för att motstå förmågan.
 
 
 
@@ -135,7 +123,7 @@ När du [[2. Regellexikon/3. Strid/Generella Handlingar/Attackera (1)|attackerar
 
 **Kostnad**: 1 Adrenalin
 
-Du rusar framåt och försöker överväldiga din motståndare. Rör dig upp till 2FE och slå sedan Idrott+STY mot karaktärens Idrott+FYS. Om du vinner blir karaktären bedövad och kan endast ta 1 Handling per tur tills slutet av din nästa tur.   
+Du rusar framåt och försöker överväldiga din motståndare. Rör dig upp till 2FE och slå sedan Idrott+STY mot karaktärens Idrott+FYS. Om du vinner blir karaktären bedövad och dess handlingspoäng reduceras med 2 per tur tills slutet av dess nästa tur.
 
 
 
@@ -152,8 +140,4 @@ Efter att du har träffat en attack mot en karaktär kan du använda dit momentu
 
 
 ### Reaktioner
-Vissa karaktärer har särskilda förmågor som låter de göra extraordinära saker när en reaktion provoceras, alla karaktärer kan däremot attackera som reaktion.
-
-Det som vanligtvis provocerar reaktioner är: 
-- Att ställa sig upp från att vara liggande    
-- Att förflytta sig från en annan karaktärs närområde
+Vissa karaktärer har särskilda förmågor som låter de göra extraordinära saker när en reaktion provoceras, alla karaktärer kan däremot attackera som reaktion. Om en handling går att göra en som en reaktion står det i handlingen.
