@@ -16,7 +16,7 @@ Du använder ett vapen du har till ditt förfogande, eller med dina knytnävar f
 
 **Lyckat slag**: Du gör skada i enlighet med vad som beskrivs av vapnet, inklusive tillägg, bortdrag etc. 
 
-**Vid upprepning**: Dra bort 3 från attackslaget för varje gång du attackerat.
+**Vid upprepning**: Dra bort 3 från attackslaget för varje gång du träffat med en attack.
 
 
 
