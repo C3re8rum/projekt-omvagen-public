@@ -12,7 +12,8 @@ När du vill använda magi beskriver du:
 - Hur mycket (eller ingen alls) mana du vill spendera på besvärjelsen 
 - Mot vem eller var du kastar besvärjelsen
 
-Efter att du har gjort det och fått godkännande från SL kan du slå för magi. Ett magislag är ett standardslag där du lägger till INT + din träningsgrad. Vilken svårighetsgrad du behöver uppnå framgår av tabellen nedan.  För varje mana du spenderar lägger du till 3 till magislaget till besvärjelsen. Maximalt kan du spendera ett antal Mana som är lika med din INT-1.
+Efter att du har gjort det och fått godkännande från SL kan du slå för magi. Ett magislag är ett standardslag där du lägger till INT + TG. Vilken svårighetsgrad du behöver uppnå framgår av tabellen nedan.  För varje mana du spenderar lägger du till 3 till magislaget till besvärjelsen. Maximalt kan du spendera ett antal Mana som är lika med din INT-1.
+
 
 | Besvärjelsegrad (BG) | SG  |
 | -------------------- | --- |

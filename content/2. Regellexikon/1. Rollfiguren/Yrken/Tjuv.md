@@ -13,6 +13,10 @@ grupp: Specialist
 
 **Färdigheter**: Smygande, Välj 2 valfria
 
+**Utrustning**:
+- Tränad alla typer av vapen
+- Tränad med lätt rustning
+
 #### Bedragare (Passiv)
 Under dina år i "yrket" har du blivit en expert på din sak
 - Din TG ökar med +3 i en valfri färdighet
