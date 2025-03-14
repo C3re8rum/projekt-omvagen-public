@@ -15,7 +15,7 @@ share: true
 
 **Utlöses av**: En karaktär slår mot dig eller någon inom din räckvidd.
 
-Ditt eller den andra karaktärens försvar ökar med 1T4+TG mot attacken som utlöste reaktionen.
+Ditt eller den andra karaktärens försvar ökar med 1T6 mot attacken som utlöste reaktionen.
 
 
 
