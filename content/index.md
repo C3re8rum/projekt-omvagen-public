@@ -10,12 +10,12 @@ Detta är det som är förstasidan på hemsidan, och ska fungera som en hub
 Projekt omvägen är ett bordsrollspel vars mål är att vara lätt för både nya spelare och spelledare att använda för framförallt kortare äventyr men bör även kunna användas för längre kampanjer i framtiden.
 
 # Innehållsförteckning
-###### [[0. Begreppslista|0. Begreppslista]]
-###### [[1. Rollfiguren|1. Rollfiguren]] 
-###### [[2. Utrustning|2. Utrustning]] 
-###### [[3. Strid|3. Strid]] 
-###### [[4. Magi|4. Magi]] 
-###### [[5. Spelledarresurser|5. Spelledarresurser]] 
+###### [[1. Introduktion|1. Introduktion]]
+###### [[2. Rollfiguren|2. Rollfiguren]] 
+###### [[3. Utrustning|3. Utrustning]] 
+###### [[4. Strid|4. Strid]] 
+###### [[5. Magi|5. Magi]] 
+###### [[6. Spelledarresurser|6. Spelledarresurser]] 
 
 ###### [[1. Kompendium/Bilaga A - Ändringslog|Ändringshistorik]] 
 <!--- Beskriver endast de ändringar som gjorts mellan uppdateringar på hemsidan, resten gör Git 

@@ -3,6 +3,60 @@ tags:
   - Kapitel
 share: true
 ---
+
+
+
+
+
+# Ändrinslog Alpha 0.2.3
+## Rollfiguren
+### Yrken
+#### Tjuv
+- Gav tjuven utrustning den är tränad i
+
+#### Spejare
+- Gjorde reaktionen 'Kvicktänkt' starkare
+
+
+### Övrigt
+- Tog bort träningsgrad som en del av Försvar
+
+## Utrustning
+- Introducerade kastvapen
+- Gjorde om sköldar till att endast hjälpa aktivt försvar genom att använda en handling
+
+## Strid
+- Ändrade sköldsmäll till att reducera mängden handlingar en varelse kan ta med 2
+- Handlingar återkommer nu i början av en karaktärs tur istället för i slutet
+- Uppdaterade beskrivning för reaktioner för att matcha hur reaktioner används i systemet
+- Tog bort handlingen rätträtt och gjorde om spejarens Kvicktänkt
+
+## Magi
+- Uppdaterade en felskrivning för Förbanna (fel skola)
+# Ändrinslog Alpha 0.2.2
+## Rollfiguren
+### Härstamning 
+- Alver: Ersatte *Alvisk Månsyn* med *Alvisk Vilja*
+- Dvärgar: Ersatte *Infrasyn* med *Giftmotståndig*
+
+## Strid
+- Bytte ut ordningssystemet till ett med sidobaserat initiativ
+
+## Magi 
+- Gjorde om [[Ljus|Ljus]] 
+# Ändrinslog Alpha 0.2.1
+## Struktur
+- Kombinerade kapitel "Varelsen" och "Rollfiguren" till ett kapitel
+- Gjorde diverse redaktionella ändringar
+
+## Strid
+- Tog bort möjligheten för olika yrken att regenera adrenalin på specialsätt
+- Minskade standardmängden handlingar per runda från 4->3
+
+## Magi
+- Uppdaterade "Magi i Lugn och Ro"
+- Lade till magin Vålla till skolan Sanctum och tog bort Eld från Sanctum
+- Uppdaterade Eld, Förbanna, Kraft, Ljus, Läka, Sköld och Vind 
 # Ändringslog Alpha 0.2
 
 ## Karaktären
@@ -37,52 +91,3 @@ share: true
 - Lade till system för att använda magi i "Lugn och Ro"
 - Förändrade svårighetsgraden på att framkalla olika typer av magi
 - Uppdaterade besvärjelser Eld, Frost, Förbanna 
-# Ändrinslog Alpha 0.2.1
-## Struktur
-- Kombinerade kapitel "Varelsen" och "Rollfiguren" till ett kapitel
-- Gjorde diverse redaktionella ändringar
-
-## Strid
-- Tog bort möjligheten för olika yrken att regenera adrenalin på specialsätt
-- Minskade standardmängden handlingar per runda från 4->3
-
-## Magi
-- Uppdaterade "Magi i Lugn och Ro"
-- Lade till magin Vålla till skolan Sanctum och tog bort Eld från Sanctum
-- Uppdaterade Eld, Förbanna, Kraft, Ljus, Läka, Sköld och Vind 
-# Ändrinslog Alpha 0.2.2
-## Rollfiguren
-### [[Härstamning|Härstamning]] 
-- Alver: Ersatte *Alvisk Månsyn* med *Alvisk Vilja*
-- Dvärgar: Ersatte *Infrasyn* med *Giftmotståndig*
-
-## Strid
-- Bytte ut ordningssystemet till ett med sidobaserat initiativ
-
-## [[Magi|Magi]] 
-- Gjorde om [[Ljus|Ljus]] 
-# Ändrinslog Alpha 0.2.3
-## Rollfiguren
-### Yrken
-#### Tjuv
-- Gav tjuven utrustning den är tränad i
-
-#### Spejare
-- Gjorde reaktionen 'Kvicktänkt' starkare
-
-
-### Övrigt
-- Tog bort träningsgrad som en del av Försvar
-
-## Utrustning
-- Introducerade kastvapen
-- Gjorde om sköldar till att endast hjälpa aktivt försvar genom att använda en handling
-
-## Strid
-- Ändrade sköldsmäll till att reducera mängden handlingar en varelse kan ta med 2
-- Handlingar återkommer nu i början av en karaktärs tur istället för i slutet
-- Uppdaterade beskrivning för reaktioner för att matcha hur reaktioner används i systemet
-- Tog bort handlingen rätträtt och gjorde om spejarens Kvicktänkt
-
-## Magi
-- Uppdaterade en felskrivning för Förbanna (fel skola)
