@@ -56,8 +56,8 @@ Nedan följer listor av alla besvärjelser som magiker tillhörande olika skolor
 
 #### Sanctum
 - [[2. Regellexikon/5. Magi/Besvjärjelser/Kraft.md|Kraft]]
-- [[2. Regellexikon/5. Magi/Besvjärjelser/Ljus.md|Ljus]]
 - [[2. Regellexikon/5. Magi/Besvjärjelser/Förbanna.md|Förbanna]]
+- [[2. Regellexikon/5. Magi/Besvjärjelser/Ljus.md|Ljus]]
 - [[2. Regellexikon/5. Magi/Besvjärjelser/Förvisa.md|Förvisa]]
 
 
