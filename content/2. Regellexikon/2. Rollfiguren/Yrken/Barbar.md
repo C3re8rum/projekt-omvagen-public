@@ -22,7 +22,7 @@ grupp: Krigare
 
 **Bärsärkagång**. *1 Handling, 1 Adrenalin*. Du använder all din ilska och går in i en bärsärkagång. Den varar i upp till 1 minut, men avslutas om du blir nedgjord. När du är i din bärsärkagång får du följande fördelar:
 - Din maximala adrenalin ökar med 1.
-- När du har mindre än halvda ditt maximala KP lägger du till en extra tärning till din skada med vapenattacker. 
+- När du har mindre än halva ditt maximala KP lägger du till en extra tärning till din skada med vapenattacker. 
 - **Hänsynslös**. *1 Adrenalin*. Slå alla dina attacker tills början av din nästa tur med Fördel. Alla andra varelser har Fördel på sina attacker mot dig.
 
 **Stridsrop**. *1 handling*. Alla fiender inom 3 rutor (6 meter) slår KAR mot ett attackslag. Vid deras mislyckande har de Nackdel på alla slag mot varelser som inte är dig tills slutet av din nästa tur. Slå för Adrenalin varje gång en påverkad fiende träffar dig. 
