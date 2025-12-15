@@ -20,7 +20,7 @@ share: true
 Odöda måste slå KAR mot magislaget. Vid misslyckande blir de rädda och måste fly utanför räckvidden och har nackdel på attackslag mot varelser inom räckvidden.  
 
 ###### Andra graden
-Utöver ovan minskas Odödas förflyttning minskas till 2 Rutor (3 m) / runda och alla attackslag mot påverkade har Fördel. Odöda med minst 5 KP förgörs vid början av Akolytens tur. 
+Utöver ovan minskas Odödas förflyttning minskas till 2 Rutor (3 m) / runda och alla attackslag mot påverkade har Fördel. Odöda med maximalt 5 KP förgörs vid början av Akolytens tur. 
 
 ###### När besvärjelsen slår fel
 Istället för ovan beskrivda effekter lyser du upp som en fyr för alla odöda i närheten. Alla odöda som är inom räckvidden kan slå med Fördel mot dig för sina nästa attackslag. 
