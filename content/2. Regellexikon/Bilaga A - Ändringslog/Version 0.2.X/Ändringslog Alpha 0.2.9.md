@@ -5,7 +5,7 @@ share: true
 ## Yrken
 ### Akolyt
 - Tog bort Vålla & Läka från Akolytens 'vanliga' besvärjelselista
-- Lade till "Förvisa" från Akolytens 'vanliga' besvärjelselista
+- Lade till "Förvisa" till Akolytens 'vanliga' besvärjelselista
 - Gav akolyten en närdstridsvapenfamilj de är tränade med
 - Tog bort 'Gudomlig Guidning'
 - Lade till 'Livets hand'
