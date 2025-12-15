@@ -2,9 +2,9 @@
 tags:
   - Regel
   - Handling
-aliases: 
+aliases:
 typ: Special
-handlingar: 
+handlingar:
 share: true
 ---
 #### Uppskaka (1)
