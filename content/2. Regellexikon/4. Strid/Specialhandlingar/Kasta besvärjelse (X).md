@@ -5,7 +5,7 @@ tags:
 aliases:
   - kasta besvärjelse
 typ: Special
-handlingar: 
+handlingar:
 share: true
 ---
 #### Kasta besvärjelse
