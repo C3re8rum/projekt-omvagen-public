@@ -2,7 +2,7 @@
 tags:
   - Regel
   - Handling
-aliases: 
+aliases:
 typ: Special
 handlingar: 1
 share: true
