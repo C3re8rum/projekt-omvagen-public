@@ -3,7 +3,7 @@ tags:
   - Regel
   - Besvärjelse
   - Magi
-Magiskola: 
+Magiskola:
 share: true
 ---
 ### Kontring 
