@@ -13,14 +13,14 @@ När du vill använda magi beskriver du:
 
 Efter att du har gjort det och fått godkännande från SL kan du slå för magi. Magislag är ett standardslag där du läger till din magiegenskap + din TG. Vilken magiegenskap du har är baserat på vilket yrke du har och ska stå beskrivet där. Svårighetsgraden slaget behöver uppnå framgår av tabellen nedan.  
 
-| Besvärjelsegrad (BG) | SG  | Gräns för missfall |
-| -------------------- | --- | ------------------ |
-| 1                    | 14  | 10                 |
-| 2                    | 18  | 14                 |
+| Besvärjelsegrad (BG) | SG  | Gräns för missfall (MG) |
+| -------------------- | --- | ----------------------- |
+| 1                    | 14  | 10                      |
+| 2                    | 18  | 14                      |
 **Ifall ditt slag misslyckas** kan du välja att lägga till en eller flera *Mana*. Hur det fungerar beskrivs nedan. 
 
 #### Mana
-Om du spenderar 1 mana på ett magislag lägger du till 1T8 till slaget. Alla magiker har en mängd mana som är lika med deras magiegenskap. Ifall mana används för besvärjelser med Fokus gäller spenderad mana endast för det första slaget. 
+Lägg till 1T8 till ditt magislag för varje mana spenderad. Mana kan inte användas ifall missfallsgränsen (MG) inte uppnås. Alla magiker har en mängd mana som är lika med deras magiegenskap. Ifall mana används för besvärjelser med Fokus gäller spenderad mana endast för det första slaget. 
 
 **Återhämtning:** Efter att ha sovit en hel natt återhämtas 1T4 mana 
 
@@ -53,9 +53,9 @@ Nedan följer listor av alla besvärjelser som magiker tillhörande olika skolor
 
 
 #### Sanctum
-- [[2. Regellexikon/5. Magi/Besvjärjelser/Kraft.md|Kraft]]
 - [[2. Regellexikon/5. Magi/Besvjärjelser/Ljus.md|Ljus]]
-- [[2. Regellexikon/5. Magi/Besvjärjelser/Förbanna.md|Förbanna]]
+- [[2. Regellexikon/5. Magi/Besvjärjelser/Kraft.md|Kraft]]
 - [[2. Regellexikon/5. Magi/Besvjärjelser/Förvisa.md|Förvisa]]
+- [[2. Regellexikon/5. Magi/Besvjärjelser/Förbanna.md|Förbanna]]
 
 
